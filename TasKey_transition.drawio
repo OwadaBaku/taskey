@@ -1,0 +1,144 @@
+<mxfile host="app.diagrams.net" modified="2023-06-22T14:16:58.349Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KFwd7PpNqpok_tbAdyYi" version="21.5.0" type="device">
+  <diagram name="ページ1" id="VMcFOKXSw9dyKaQIIYwg">
+    <mxGraphModel dx="1405" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="OIV-hzAnvX4laf1iiR6P-1" target="OIV-hzAnvX4laf1iiR6P-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-1" value="TOPページ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="90" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-2" value="ユーザー新規登録ページ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="90" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-5" value="ユーザーログインページ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-6" value="How toページ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="317" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-7" value="一覧ページ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="130" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-8" value="料金案内ページ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="397" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-9" value="お問い合わせページ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="475" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-12" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="120" as="sourcePoint" />
+            <mxPoint x="210" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="OIV-hzAnvX4laf1iiR6P-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="200" as="sourcePoint" />
+            <mxPoint x="310" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="OIV-hzAnvX4laf1iiR6P-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="347" as="sourcePoint" />
+            <mxPoint x="240" y="344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="427" as="sourcePoint" />
+            <mxPoint x="240" y="427" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="508" as="sourcePoint" />
+            <mxPoint x="240" y="508" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-17" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OIV-hzAnvX4laf1iiR6P-5" target="OIV-hzAnvX4laf1iiR6P-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="160" as="sourcePoint" />
+            <mxPoint x="380" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="200" />
+              <mxPoint x="420" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="159.81" as="sourcePoint" />
+            <mxPoint x="450" y="159.81" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-21" value="ユーザーマイページ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="220" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-24" value="アカウント情報編集機能" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OIV-hzAnvX4laf1iiR6P-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="OIV-hzAnvX4laf1iiR6P-21" target="OIV-hzAnvX4laf1iiR6P-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="240" as="sourcePoint" />
+            <mxPoint x="550" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bp-uw8TyzRI4v7ut346c-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="280" as="sourcePoint" />
+            <mxPoint x="650" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="280" />
+              <mxPoint x="630" y="240" />
+              <mxPoint x="630" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bp-uw8TyzRI4v7ut346c-3" value="タスク設定機能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="250" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp-uw8TyzRI4v7ut346c-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="249.62" as="sourcePoint" />
+            <mxPoint x="630" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bp-uw8TyzRI4v7ut346c-6" value="未ログインパスワード&lt;br&gt;リセット機能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="246" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp-uw8TyzRI4v7ut346c-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="Bp-uw8TyzRI4v7ut346c-6" source="OIV-hzAnvX4laf1iiR6P-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="276" as="sourcePoint" />
+            <mxPoint x="240" y="273" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bp-uw8TyzRI4v7ut346c-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="445" as="sourcePoint" />
+            <mxPoint x="650" y="365" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="445" />
+              <mxPoint x="630" y="405" />
+              <mxPoint x="630" y="365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bp-uw8TyzRI4v7ut346c-9" value="タスク内容登録・&lt;br&gt;編集機能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="415" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp-uw8TyzRI4v7ut346c-10" value="課金設定機能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="330" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp-uw8TyzRI4v7ut346c-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="370" as="sourcePoint" />
+            <mxPoint x="630" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
